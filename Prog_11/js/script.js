@@ -2,6 +2,9 @@ var idade = 18;
 var nome = "Ewerton";
 var idadeMinima = 18;
 
+console.log(!true);
+console.log(!false);
+
 if((idade >= idadeMinima) && (nome == "Ewerton")){
     console.log("Pode entrar na festa");
 }
