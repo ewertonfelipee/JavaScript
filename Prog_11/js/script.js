@@ -1,6 +1,8 @@
 var idade = 18;
+var nome = "Ewerton";
 var idadeMinima = 18;
-if(idade >= idadeMinima){
+
+if((idade >= idadeMinima) && (nome == "Ewerton")){
     console.log("Pode entrar na festa");
 }
 else if(idade >= 16 && idade <= 17){
