@@ -1,1 +1,0 @@
-console.log("Insert JavaScript Code using src attribute");
