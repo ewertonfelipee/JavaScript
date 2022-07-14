@@ -1,0 +1,11 @@
+{
+  "name" : "ewerton",
+  "lastName" : "felipe",
+  "age" : 24,
+  "student" : true,
+  "roleDetails" : {
+    "role" : "programmer",
+    "corporation" : "x"
+  },
+  "hobbies" : ["watch anime", "read manga"]
+}
