@@ -30,3 +30,8 @@ console.log(texto);
 console.log("After trim()");
 const myTxt = texto.trim();
 console.log(myTxt);
+
+console.log("Converting a string to an array");
+const string = "hello";
+const txt4 = string.split("");
+console.log(txt4);
